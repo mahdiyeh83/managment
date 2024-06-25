@@ -1,0 +1,68 @@
+C:\Users\Admin\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+C:\Users\Admin\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+C:\Users\Admin\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+C:\Users\Admin\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
+L:\project\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+L:\project\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+L:\project\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.csprojAssemblyReference.cache
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+L:\project\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
+H:\c#\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+H:\c#\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+H:\c#\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.AssemblyReference.cache
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.SuggestedBindingRedirects.cache
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+H:\c#\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.media.resources
+C:\Users\ASUS\Desktop\aqababaee\aqababaee\obj\Debug\aqababaee.search.resources
+G:\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+G:\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+G:\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.AssemblyReference.cache
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.media.resources
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.search.resources
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+G:\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.exe.config
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.exe
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\bin\Debug\aqababaee.pdb
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.AssemblyReference.cache
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.Form1.resources
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.media.resources
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.Properties.Resources.resources
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.search.resources
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.GenerateResource.cache
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.csproj.CoreCompileInputs.cache
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.exe
+F:\my-code\code\c#\امتحان رحیم\aqababaee\aqababaee\obj\Debug\aqababaee.pdb
